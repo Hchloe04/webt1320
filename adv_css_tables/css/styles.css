@@ -11,15 +11,15 @@ img {
 h1,
 h2,
 h3 {
-    color: blanchedalmond;
+    color: black;
     text-align: center;
 }
 
 #container {
-    background-color: black;
+    background-color: grey;
     width: 75%;
     margin: 20px auto;
-    border: 4px solid grey;
+    border: 4px solid yellow;
 }
 
 nav{
@@ -101,12 +101,12 @@ aside{
 footer{
     background-color: azure;
     text-align: center;
-    padding: 40 px 0;
+    padding: 40px 0;
     color: blue;
     font-weight: bold;
 }
 
-.button a {
+.button  {
     display: block;
     width: 100px;
     height: 10px;
@@ -118,8 +118,7 @@ footer{
     padding: 10px;
     text-align: center;
     border: 4px solid black;
-    border: radius 10px;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 
 .button:hover {
